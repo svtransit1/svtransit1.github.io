@@ -1,0 +1,12 @@
+title: 硅谷中转站
+description: 追踪全球 AI 最前线 · 每 3 小时一篇 · 不鸡汤、不水
+url: https://svtransit1.github.io
+lang: zh-Hans
+author: 硅谷中转站
+markdown: kramdown
+permalink: /:year/:month/:day/:slug/
+exclude: [scripts, README.md, Gemfile, Gemfile.lock, Makefile]
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
