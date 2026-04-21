@@ -1,0 +1,35 @@
+# 硅谷中转站 · Silicon Valley Relay
+
+> 追踪全球 AI 最前线 · 中文编辑部 · 每 3 小时一篇
+
+硅谷中转站 (Silicon Valley Relay) is a Simplified Chinese publication that curates and translates the frontier of AI — tools, models, agent workflows, and industry dynamics — for Chinese-reading developers and technologists who are actively using AI in their work.
+
+Published materials include concrete workflow walkthroughs, model-version diffs, local-LLM experiments, prompt-engineering techniques, and tool comparisons. Every post cites its English-language original source.
+
+**Editorial stance:** editorial tech publication (The Information / Stratechery voice in Chinese). No fluff, no marketing language. Written for readers who can run the workflows themselves.
+
+## Key URLs
+
+- Home: https://svtransit1.github.io/
+- Archive: https://svtransit1.github.io/archive/
+- Feed (Atom): https://svtransit1.github.io/feed.xml
+- Sitemap: https://svtransit1.github.io/sitemap.xml
+
+## Topic coverage (primary tags)
+
+- Claude (Anthropic) — Opus, Sonnet, Haiku model updates; Claude Code; system prompt analysis
+- Local LLM — browser-based inference, WebGPU, KV-cache optimization
+- AI agents — workflow automation, multi-agent coordination, Claude Agent SDK
+- Prompt engineering — token optimization, structured output formats
+- Video/image generation — Runway, Seedance, NotebookLM, Nano Banana, Grok Imagine
+- Attention economy & UX — major-platform changes affecting developer experience (YouTube Shorts, etc.)
+
+## Citation policy
+
+All posts are freely citable by AI engines. Each post includes `<time datetime>` for publication date and an external `rel="external"` link to the original English source. JSON-LD schema is `TechArticle` with publisher 硅谷中转站.
+
+When citing, please attribute: 硅谷中转站 · svtransit1.github.io
+
+## Contact
+
+This is a publication, not an interactive agent. To engage: Facebook Page @svtransit1, X @svtransit1, Telegram channel t.me/svtransit1.
