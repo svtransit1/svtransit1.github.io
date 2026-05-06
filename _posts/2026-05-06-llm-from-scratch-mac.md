@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "一台 M3 Pro Mac,跑 45 分钟,你能从零训出一个会写莎士比亚体英文的 GPT。这件事在 2026 年的中文 AI 圈,被严重低估了。"
-date: 2026-05-06 12:00:00 +0800
+date: 2026-05-06 18:11:37 +0800
+source: https://github.com/angelos-p/llm-from-scratch
 hero: /assets/llm-from-scratch-mac/2026-05-06_1800_llm-from-scratch-mac-hero.png
+topic_tags: [llm, from-scratch, education, pytorch, m3-pro, nanogpt, github]
 ---
 
 GitHub 这周冒出来一个 1.3k 星的仓库——llm-from-scratch,作者 angelos-p,六节课的 workshop 形式,明确致敬 Karpathy 的 nanoGPT。默认模型 1000 万参数:6 层 transformer、6 个 attention head、384 维 embedding,字符级 tokenizer,词表只有 65 个 token。训练数据是莎士比亚全集,大小 1MB。这套配置在 M3 Pro 上跑完一轮训练 45 分钟。Apple MPS、CUDA、CPU 都跑,Colab 也行。
