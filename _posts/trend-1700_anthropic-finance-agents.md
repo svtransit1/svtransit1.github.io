@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "\"上周 Anthropic 跟 Blackstone、Goldman、Hellman & Friedman 搞合资公司——产品到底长啥样?\"
-date: trend 12:00:00 +0800
+date: trend 17:15:23 +0800
+source: https://www.anthropic.com/news/finance-agents
 hero: /assets/1700_anthropic-finance-agents/trend_2026-05-06_1700_anthropic-finance-agents-hero.png
+topic_tags: [anthropic, finance-agents, claude, walleye, vals-ai]
 ---
 
 今天答案上架了。十个 ready-to-run 的金融服务 Agent 模板,作为 plugin 接进 Claude Cowork 和 Claude Code,另配一份 Managed Agents cookbook。
