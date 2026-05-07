@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "KV cache 直接压到原来的六分之一,attention 在 H100 上跑快八倍。无需重新训练,任意模型即插即用。"
-date: 2026-05-07 12:00:00 +0800
+date: 2026-05-07 18:12:32 +0800
+source: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
 hero: /assets/turboquant-kv-6x/2026-05-07_2030_turboquant-kv-6x-hero.png
+topic_tags: [turboquant, google-research, kv-cache, llm-inference, iclr-2026, polarquant, qjl]
 ---
 
 这是 Google Research 三月发的 TurboQuant,被收进了 ICLR 2026,这周在国内技术圈开始转。我读了一遍论文跟实现,把它的工程逻辑拆给你看。
