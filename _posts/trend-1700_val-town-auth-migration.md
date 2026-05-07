@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Val Town 这周复盘了一次自家认证系统的两次迁移:Supabase → Clerk → Better Auth。从 2023 年初到 2026 年 4 月,三家方案都用过,然后写了一篇为什么离开 Clerk 的长文。HN 上 214 分,干货密度高。"
-date: trend 12:00:00 +0800
+date: trend 17:09:24 +0800
+source: https://blog.val.town/better-auth
 hero: /assets/1700_val-town-auth-migration/trend_2026-05-07_1700_val-town-auth-migration-hero.png
+topic_tags: [val-town, clerk, better-auth, supabase, devops, auth, migration]
 ---
 
 Val Town 是个写代码 + 社交的平台——你写一个 val,别人能看你头像、关注你、像 GitHub feed 那样浏览。这个产品形态把认证服务推到了它本来不擅长的位置。
