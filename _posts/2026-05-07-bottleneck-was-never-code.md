@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "《The Bottleneck Was Never the Code》——这周 HN 442 分,作者匿名,thetypicalset.com 出的一篇短文。值得花十分钟读完,我把核心论点拆给你看。"
-date: 2026-05-07 12:00:00 +0800
+date: 2026-05-07 09:09:31 +0800
+source: https://www.thetypicalset.com/blog/thoughts-on-coding-agents
 hero: /assets/bottleneck-was-never-code/2026-05-07_0900_bottleneck-was-never-code-hero-raw.png
+topic_tags: [ai, software-engineering, jevons-paradox, context, ai-narrative, hn]
 ---
 
 过去两年讨论 AI coding,大家爱说「coding 速度提升十倍」。文章直接把这个叙事拆了:写代码从来不是软件团队的瓶颈。
