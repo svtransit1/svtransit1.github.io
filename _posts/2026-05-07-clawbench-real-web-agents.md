@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "让前沿 AI agent 上线真实网站做 153 个任务,7 个顶级模型最高分:33.3%。这是 UBC + Vector Institute 这周发布的新基准 ClawBench 的成绩单。"
-date: 2026-05-07 12:00:00 +0800
+date: 2026-05-07 12:09:40 +0800
+source: https://www.clawbench.com/
 hero: /assets/clawbench-real-web-agents/2026-05-07_1200_clawbench-real-web-agents-hero.png
+topic_tags: [clawbench, ai-agent, benchmark, ubc, vector-institute, claude-sonnet]
 ---
 
 它跟以前那些 agent benchmark 不一样的地方,值得一一拆开看。
