@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "一张图,把 Asimov 反过来读。"
-date: 2026-05-07 12:00:00 +0800
+date: 2026-05-07 15:09:39 +0800
+source: https://susam.net/inverse-laws-of-robotics.html
 hero: /assets/three-inverse-laws-ai/2026-05-07_1300_three-inverse-laws-ai-hero.png
+topic_tags: [ai-ethics, asimov, susam-pal, ai-philosophy, inverse-laws]
 ---
 
 Susam Pal 1 月写的《Three Inverse Laws of AI》这周在 HN 上重新爆——483 分,评论区也罕见地好。原版 Asimov 三大法则约束的是机器,这套反法则约束的是人对机器该有的姿态。
