@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "去年那条「AI 把我生产数据库删了」的爆款,这周有人写了反驳。文章标题就叫《AI Didn't Delete Your Database, You Did》,作者 Idiallo,HN 526 分。"
-date: 2026-05-06 12:00:00 +0800
+date: 2026-05-06 21:09:06 +0800
+source: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did
 hero: /assets/ai-didnt-delete-db/2026-05-06_2030_ai-didnt-delete-db-hero.png
+topic_tags: [ai, claude, devops, postmortem, incident]
 ---
 
 事情的复盘很直接:公开 API 端点能 DROP 整个生产库,token 完全没做权限控制,备份系统没真在跑,然后让 Claude 在没人盯的情况下跑完全流程。Claude 删了表。开发者上网喊「AI 失控」,顺手公开 Claude 的「思路」当证据。
