@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "\"Simon Willison 是不是放弃 review AI 写的代码了?\"
-date: trend 12:00:00 +0800
+date: trend 11:10:30 +0800
+source: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
 hero: /assets/1100_simon-willison-vibe-shift/trend_2026-05-07_1100_simon-willison-vibe-shift-hero.png
+topic_tags: [simon-willison, claude-code, vibe-coding, agentic-engineering, ai-coding]
 ---
 
 差不多是。Django 的共同创建者、写过几百篇 AI 评测的人,5 月 6 号在自己 blog 上发了一篇 442 分的反思——「Vibe Coding and Agentic Engineering Are Getting Closer Than I'd Like」。
