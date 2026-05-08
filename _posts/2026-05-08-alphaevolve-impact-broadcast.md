@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "DeepMind 这周更新了 AlphaEvolve 的影响力报告。一年时间,这个 Gemini 驱动的进化式编码 agent,已经在十几个领域跑出可量化结果。我把里面最硬的几条拎出来。"
-date: 2026-05-08 12:00:00 +0800
+date: 2026-05-08 15:12:41 +0800
+source: https://deepmind.google/blog/alphaevolve-impact/
 hero: /assets/alphaevolve-impact-broadcast/2026-05-08_1300_alphaevolve-impact-broadcast-hero.png
+topic_tags: [alphaevolve, deepmind, gemini, scientific-discovery, strassen, ai-impact]
 ---
 
 先解释结构。AlphaEvolve 整体是一个 ensemble,不是单点模型:Gemini Flash 负责广度——快速生成各种想法;Gemini Pro 负责深度——给每个想法挑刺、加洞察。中间加一个进化算法做选择压力,加一个自动验证器测每个候选方案。整个系统能解的问题只有一个约束:解必须能被算法描述,且能被自动验证。
