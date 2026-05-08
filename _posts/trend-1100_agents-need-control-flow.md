@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "「Agent 缺的不是更多 prompt,是控制流。」"
-date: trend 12:00:00 +0800
+date: trend 11:09:19 +0800
+source: https://bsuh.bearblog.dev/agents-need-control-flow/
 hero: /assets/1100_agents-need-control-flow/trend_2026-05-08_1100_agents-need-control-flow-hero-raw.png
+topic_tags: [agent, control-flow, prompt-engineering, brian-suh, software-architecture]
 ---
 
 这是 Brian Suh 在 bsuh.bearblog.dev 这周写的一篇短文,HN 拿了 349 分。我看完后一直在想他那句最狠的总结。
