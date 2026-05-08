@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Salvatore Sanfilippo——也就是写 Redis 的 antirez——这周悄悄发了一个 GitHub 仓库,叫 ds4。一句话定位:让 DeepSeek v4 Flash 跑在你的 Mac 上,用 Metal 做 GPU 加速。"
-date: 2026-05-08 12:00:00 +0800
+date: 2026-05-08 12:09:04 +0800
+source: https://github.com/antirez/ds4
 hero: /assets/antirez-ds4-deepseek-metal/2026-05-08_1200_antirez-ds4-deepseek-metal-hero.png
+topic_tags: [antirez, deepseek, local-llm, metal, apple-silicon, kv-cache, quantization]
 ---
 
 我把它的工程细节拆给你看。
