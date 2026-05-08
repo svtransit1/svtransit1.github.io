@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "一张图一个比喻——AI slop 在勒死社区。"
-date: trend 12:00:00 +0800
+date: trend 17:09:28 +0800
+source: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/
 hero: /assets/1700_ai-slop-bindweed/trend_2026-05-08_1700_ai-slop-bindweed-hero.png
+topic_tags: [ai-slop, community, robin-moffatt, content-quality, ai-ethics]
 ---
 
 Robin Moffatt 5 月 6 号写的《AI Slop is Killing Online Communities》这周在 HN 上刷屏,550+ 评论。他用了一个很狠的意象:bindweed,中文叫田旋花,藤本杂草——会爬到所有有生机的植物身上,把它们慢慢勒死。这就是 AI slop 在做的事。
