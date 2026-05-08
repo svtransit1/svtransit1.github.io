@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Stanford HAI 第九版 AI Index 这周完整发出来了。我把里面五个最难忽视的数字拎出来,每一个都在重新定义「AI 能力到底走到哪里」的对话。"
-date: 2026-05-08 12:00:00 +0800
+date: 2026-05-08 09:09:44 +0800
+source: https://hai.stanford.edu/ai-index/2026-ai-index-report
 hero: /assets/stanford-ai-index-2026/2026-05-08_0900_stanford-ai-index-2026-hero-raw.png
+topic_tags: [stanford-ai-index, benchmark, ai-progress, swe-bench, humanity-last-exam, imo, china-us]
 ---
 
 1. SWE-bench Verified:60% → 接近 100%
