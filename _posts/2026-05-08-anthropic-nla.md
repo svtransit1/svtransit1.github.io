@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "\"Claude 在想但没说出来的东西,现在能直接读出来吗?\"
-date: 2026-05-08 12:00:00 +0800
+date: 2026-05-08 18:08:54 +0800
+source: https://www.anthropic.com/research/natural-language-autoencoders
 hero: /assets/anthropic-nla/2026-05-08_1800_anthropic-nla-hero-raw.png
+topic_tags: [anthropic, claude, interpretability, nla, alignment-audit, ai-safety]
 ---
 
 可以了。Anthropic 这周发了一篇研究,叫 Natural Language Autoencoders——把模型内部的激活值,直接翻译成自然语言。
