@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "NVIDIA 4 月底丢出了一个开源 AI 模型族,叫 Ising。这事现在国内技术圈才开始转,值得一个完整段落来讲清楚——因为它指向的方向,跟过去两年所有 LLM 相关讨论都不一样。"
-date: 2026-05-07 12:00:00 +0800
+date: 2026-05-07 21:11:25 +0800
+source: https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers
 hero: /assets/nvidia-ising-quantum/2026-05-07_2200_nvidia-ising-quantum-hero-raw.png
+topic_tags: [nvidia, ising, quantum, ai, open-source, error-correction, calibration]
 ---
 
 Ising 不是给 chat、不是给 coding、不是给 agent 的。它是给量子计算机用的。
