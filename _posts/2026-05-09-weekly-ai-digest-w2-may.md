@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "本周 AI 世界:五件事重塑了 2026 年的对话。"
-date: 2026-05-09 12:00:00 +0800
+date: 2026-05-09 09:08:51 +0800
+source: weekly-recap (multiple)
 hero: /assets/weekly-ai-digest-w2-may/2026-05-09_0900_weekly-ai-digest-w2-may-hero.png
+topic_tags: [weekly-digest, mythos, alphaevolve, nla, mojo, stanford-ai-index]
 ---
 
 我把这周印象最深的五个动作拎出来。每一个都不是营销稿,都有具体数字、具体名字。
