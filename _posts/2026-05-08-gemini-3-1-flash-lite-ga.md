@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "判决先放出来:今天上线 GA 的 Gemini 3.1 Flash-Lite,比同档位 thinking 系列模型便宜 60%,p95 1.8 秒出完整回复,classifier 跟 tool call 跑进 1 秒以内。"
-date: 2026-05-08 12:00:00 +0800
+date: 2026-05-08 21:09:37 +0800
+source: https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available
 hero: /assets/gemini-3-1-flash-lite-ga/2026-05-08_2030_gemini-3-1-flash-lite-ga-hero.png
+topic_tags: [gemini, flash-lite, google, pricing, agent, tool-comparison]
 ---
 
 谁该用、谁不该用,可以从三条具体的轴拆开看。
