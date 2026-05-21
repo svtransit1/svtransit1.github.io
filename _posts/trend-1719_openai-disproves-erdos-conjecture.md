@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "「OpenAI 的 AI 自己解开了一道 80 年没人解开的数学难题?」——这两天你大概刷到了这个说法。它不算错,但「解开难题」这四个字,恰恰把真正有意思的部分盖住了。"
-date: trend 12:00:00 +0800
+date: trend 17:19:05 +0800
+source: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 hero: /assets/1719_openai-disproves-erdos-conjecture/trend_2026-05-21_1700_openai-disproves-erdos-conjecture-hero.png
+topic_tags: [openai, erdos, unit-distance-problem, ai-math, reasoning-model]
 ---
 
 准确说,OpenAI 一个内部模型做的事是:推翻了一个挂了 80 年的猜想。1946 年,Erdős 提出「平面单位距离问题」——平面上放 n 个点,最多能有多少对点之间的距离正好是 1。几十年来大家相信,类似方形网格的排法基本就是最优,Erdős 还为此押了一个上界猜想:这个最大值的增长,只比一条直线快一点点,那个「快一点点」的部分还会随着点数变多慢慢趋近于零。这个模型构造出了一整族反例,把增长率实打实抬到了一个固定更高的量级——也就是说,流传了 80 年的「网格最优」信念,被直接证伪了。普林斯顿的 Will Sawin 后来还把这个改进幅度精确到了 0.014。要注意:难题本身的精确答案其实还没算出来,被解决的,是这个具体的猜想。
