@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Anthropic 上周(5/19)正式官宣跟 KPMG 的全球合作——276 千 + 全球员工开放 Claude 接入。这是 KPMG 在美国内部跑了 2 年之后,把整套体系推到全球分支机构的 rollout。"
-date: 2026-05-25 12:00:00 +0800
+date: 2026-05-25 21:10:45 +0800
+source: https://www.anthropic.com/news/anthropic-kpmg
 hero: /assets/kpmg-claude-276k-employees-enterprise-deployment/2026-05-25_2100_kpmg-claude-276k-employees-enterprise-deployment-hero.png
+topic_tags: [anthropic, kpmg, enterprise-deployment, claude-cowork, managed-agents, big-four, vertical-packaging, digital-gateway]
 ---
 
 挑出 4 个具体 vertical 的落地——

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Google 上周(5/19)悄悄发了一份「Gemini Omni Flash」——是 Omni 这个新模型家族的首个版本,DeepMind CTO Koray Kavukcuoglu 亲自写的发布文。核心做的事:让 video gen 不只是「敲个 prompt 出一段视频」,而是可以对话式编辑。"
-date: 2026-05-25 12:00:00 +0800
+date: 2026-05-25 18:11:58 +0800
+source: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/
 hero: /assets/google-gemini-omni-video-generation-launch/2026-05-25_1800_google-gemini-omni-video-generation-launch-hero-raw.png
+topic_tags: [gemini-omni, gemini-omni-flash, google-deepmind, video-generation, multimodal, physics-aware, synthid, conversation-editing]
 ---
 
 挑几个具体的问答把这个东西讲清楚——

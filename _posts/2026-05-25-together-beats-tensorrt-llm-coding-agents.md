@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Together AI 上周(5/19)发了一份 inference benchmark,看完之后挺值得放下来想——开源推理引擎在 NVIDIA 自家的 B200 上,把 NVIDIA 自家的 TensorRT-LLM 跑赢了 31%。"
-date: 2026-05-25 12:00:00 +0800
+date: 2026-05-25 09:12:16 +0800
+source: https://www.together.ai/blog/coding-agent-benchmarks
 hero: /assets/together-beats-tensorrt-llm-coding-agents/2026-05-25_0900_together-beats-tensorrt-llm-coding-agents-hero-raw.png
+topic_tags: [together-ai, tensorrt-llm, sglang, kimi-k2-5, b200, inference-engine, thundermla, eagle-speculative-decoding]
 ---
 
 测试环境:同样 4 张 B200、同样的 Kimi K2.5 模型、同样 EAGLE speculative decoding(3 个 draft tokens)、同样 45K 到 200K token 的真实 coding agent prompt 长度。

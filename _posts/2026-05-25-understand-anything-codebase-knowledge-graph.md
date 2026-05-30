@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "GitHub 上还有一个仓库这周冲得猛——Lum1104/Understand-Anything,27.8K stars、2.4K forks、v2.7.3 是 5 月 19 号发的。"
-date: 2026-05-25 12:00:00 +0800
+date: 2026-05-25 15:10:57 +0800
+source: https://github.com/Lum1104/Understand-Anything
 hero: /assets/understand-anything-codebase-knowledge-graph/2026-05-25_1500_understand-anything-codebase-knowledge-graph-hero.png
+topic_tags: [understand-anything, claude-code, cursor, copilot, gemini-cli, codebase-graph, cross-editor]
 ---
 
 它做的事是「把任意 codebase 变成一张可交互的知识图」。文件、函数、类、依赖关系都是图里的节点。LLM 帮你拆,你拿浏览器逛。

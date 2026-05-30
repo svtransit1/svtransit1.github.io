@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "GitHub 上有一个仓库这周冲得挺猛——academic-research-skills,把 Claude Code 改造成了一条完整的学术研究流水线。20.8K stars,1.8K forks,432 commits,最新 v3.9.2 是 5 月 18 号发的,样板文件夹里有中英文的真实成稿可以直接翻。"
-date: 2026-05-25 12:00:00 +0800
+date: 2026-05-25 12:11:56 +0800
+source: https://github.com/Imbad0202/academic-research-skills
 hero: /assets/academic-research-skills-claude-code-pipeline/2026-05-25_1200_academic-research-skills-claude-code-pipeline-hero-raw.png
+topic_tags: [academic-research-skills, claude-code, skills, vertical-packaging, peer-review, paper-writing]
 ---
 
 它做的事很具体——把「写一篇 paper」从一次性 Claude 对话,拆成 5 个阶段的 skill orchestration:
