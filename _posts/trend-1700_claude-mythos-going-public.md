@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Anthropic 手里那个比 Opus 还强一档的模型 Claude Mythos,终于要放出来了。最让人坐直的,不是它会写代码,而是它「找漏洞」的本事。🧐 几件值得知道的事:"
-date: trend 12:00:00 +0800
+date: trend ) +0800
+source: https://red.anthropic.com/2026/mythos-preview/
 hero: /assets/1700_claude-mythos-going-public/trend_2026-06-04_1700_claude-mythos-going-public-hero-5.png
+topic_tags: [claude-mythos, anthropic, ai-security, glasswing, frontier-model]
 ---
 
 一、它是谁。Mythos 是 Anthropic 目前最能打的模型,定位比现在的 Opus 还高一个档。今年 4 月以「预览版」露过面,跑分摆得很猛——SWE-bench Verified 93.9%、SWE-bench Pro 77.8%、连数学奥赛级的 USAMO 都拿到 97.6%(都是官方自己的数)。但它一直没对外开放。
