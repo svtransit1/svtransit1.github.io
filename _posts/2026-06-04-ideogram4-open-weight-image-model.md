@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "做图一直被「文字总糊成乱码」坑的人,可能要留意一下:Ideogram 昨天把自家第 4 代图像模型开源了,而它最能打的,恰恰是「把字写对」。🧐"
-date: 2026-06-04 12:00:00 +0800
+date: 2026-06-04 ) +0800
+source: https://ideogram.ai/blog/ideogram-4.0/
 hero: /assets/ideogram4-open-weight-image-model/2026-06-04_0900_ideogram4-open-weight-image-model-hero.png
+topic_tags: [image-generation, ideogram, open-weight, text-rendering, design]
 ---
 
 先说它是什么。Ideogram 4 是个 9.3B 参数的文生图模型,从头训练,文本编码器用的是 Qwen3-VL-8B。关键在于权重是真放出来了——HF 上有 nf4 和 fp8 两个量化版,能自己拉下来本地跑,最高到 2K 分辨率。
