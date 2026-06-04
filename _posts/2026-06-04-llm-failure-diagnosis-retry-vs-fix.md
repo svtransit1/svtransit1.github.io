@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "AI 答错了,你第一反应是「再让它试一次」,还是「得改 prompt」?有篇刚出的论文说:不用读它错在哪,光看「失败的分布特征」,就能 84% 判断出——这次重试到底有没有用。🧐"
-date: 2026-06-04 12:00:00 +0800
+date: 2026-06-04 ) +0800
+source: https://arxiv.org/abs/2606.05145
 hero: /assets/llm-failure-diagnosis-retry-vs-fix/2026-06-04_1500_llm-failure-diagnosis-retry-vs-fix-hero.png
+topic_tags: [llm-failure, eval, test-time, reasoning, agents]
 ---
 
 它把失败分成两类:一类是「运气差」,多抽几次样就能蒙对;另一类是「结构性」的,抽到天荒地老还是错,光重试没用,得动手干预(改提示、加约束之类)。论文用 3 个「轨迹层面」的特征,不看回答的文字、也不碰模型权重,就能把这两类分开,准确率 84.3%(比「无脑猜多数类」高 20 个点),换个模型家族还能接着用。🤖
