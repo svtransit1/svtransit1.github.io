@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Uber 给每个工程师用 AI 编程工具的钱,定了个上限:每个工具,每月 $1,500。这个数字,可能比任何一份「AI 提效报告」都更能说明问题。🧐 几点拆开看:"
-date: 2026-06-04 12:00:00 +0800
+date: 2026-06-04 ) +0800
+source: https://simonwillison.net/2026/Jun/3/uber-caps-usage/
 hero: /assets/uber-ai-coding-tool-budget-cap/2026-06-04_1800_uber-ai-coding-tool-budget-cap-hero-1.png
+topic_tags: [ai-economics, ai-coding-tools, cost, uber, claude-code]
 ---
 
 一、上限是每月 $1,500,而且是「每个工具单独算」。用 Cursor 一份额度,用 Claude Code 又是一份,不是两个加起来才 $1,500。「单独算」这点信息量不小——说明 Uber 不是让你在工具之间二选一,而是默认一个工程师会同时挂着好几个 AI 工具,各管一段活。
