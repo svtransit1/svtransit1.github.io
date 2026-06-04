@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "人形机器人最贵的一件事,是「教它干活」——通常得有人戴着设备,一遍遍遥控示范。有篇刚出的论文 GRAIL 干脆把这步跳了:它拿 AI 生成的「假视频」训练机器人,真机上手成功率 84%。🧐"
-date: 2026-06-04 12:00:00 +0800
+date: 2026-06-04 ) +0800
+source: https://arxiv.org/abs/2606.05160
 hero: /assets/grail-humanoid-robot-synthetic-video/2026-06-04_1200_grail-humanoid-robot-synthetic-video-hero.png
+topic_tags: [robotics, humanoid, sim-to-real, synthetic-data, embodied-ai]
 ---
 
 思路挺绝。老办法靠真人遥控、动作捕捉,采一条数据贵得要命。GRAIL 反着来:先用 3D 资产把场景搭好(物体、相机、机器人都设定好),让视频大模型「脑补」出一段交互画面,再从画面里反推出 4D 的动作轨迹,最后映射到机器人身上。整个流程在部署前「全程虚拟」,不碰真机、也不用真人示范。
