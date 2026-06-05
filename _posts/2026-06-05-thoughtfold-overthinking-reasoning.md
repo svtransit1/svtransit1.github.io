@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "你有没有发现,现在的「推理模型」特别爱想太多?明明一步能到的题,它非要绕一大圈、反复试错,token 哗哗地烧。有篇刚出的论文 ThoughtFold,专门治这个毛病。🧐"
-date: 2026-06-05 12:00:00 +0800
+date: 2026-06-05 ) +0800
+source: https://arxiv.org/abs/2606.03503
 hero: /assets/thoughtfold-overthinking-reasoning/2026-06-05_0900_thoughtfold-overthinking-reasoning-hero.png
+topic_tags: [reasoning-model, overthinking, chain-of-thought, token-efficiency, fine-tuning]
 ---
 
 它的观察挺实在:这些模型的「思考链」里,塞了一堆「试了又退回去」的冗余探索。而现在主流的强化学习训练,反而会把这些绕路也一并「奖励」进去——于是越练越啰嗦。
