@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "你天天用的大模型,到底是被哪些数据「喂」大的?这个问题以前几乎没法查——有篇新论文把它快了 13 倍,顺带能干一件更戳人的事:查模型有没有「偷看过考卷」。🧐"
-date: 2026-06-04 12:00:00 +0800
+date: 2026-06-04 ) +0800
+source: https://arxiv.org/abs/2606.05165
 hero: /assets/stride-training-data-attribution/2026-06-04_2100_stride-training-data-attribution-hero.png
+topic_tags: [training-data-attribution, data-contamination, benchmark-trust, interpretability, llm]
 ---
 
 先说为什么难查。「训练数据归因」想搞清楚:模型的某个回答,到底是被训练集里哪些例子影响出来的。最朴素的办法是「抽掉一批数据、重训一遍、看变化」——可 LLM 动辄几千亿参数,重训一次的成本够烧一阵,根本没法反复来。所以这事一直卡在「理论上能做、实际做不起」。
