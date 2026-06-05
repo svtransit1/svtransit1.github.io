@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "ChatGPT 的月活破 10 亿了——而且是史上最快冲到这个数的 App,比当年的 TikTok、Instagram、YouTube 都快。🧐"
-date: trend 12:00:00 +0800
+date: trend ) +0800
+source: https://thenextweb.com/news/chatgpt-1-billion-monthly-active-users
 hero: /assets/1100_chatgpt-1-billion-users/trend_2026-06-05_1100_chatgpt-1-billion-users-hero.png
+topic_tags: [chatgpt, openai, user-growth, ai-adoption, milestone]
 ---
 
 数据来自市场分析公司 Sensor Tower 的估算(先记住「估算」两个字):ChatGPT 大约用了三年,App 月活就摸到 10 亿,把那些社交、视频巨头当年冲到 10 亿的速度,都甩在了后头。
