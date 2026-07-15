@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "投了 69 份简历,拿到 20 个初面,最后签下合同当上 AI 工程师——这套找工作的流程,是一个丹麦开发者用 Claude Code 自己搭的,整个仓库这周在 GitHub 冲到 2.3 万星。"
+title: "投了 69 份简历,拿到 20 个初面,最后签下合同当上 AI 工程师——这套找工作的流程,是一个丹麦开发者用 Claude Code 自己搭的,整个仓库在 GitHub 上已经攒了 2.3 万星。"
 date: 2026-07-15 21:25:00 +0800
 source: https://github.com/MadsLorentzen/ai-job-search
 hero: /assets/job-hunt-verify-loop/2026-07-15_2100_job-hunt-verify-loop-hero.png
